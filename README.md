@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Sherly Angel, a Game Developer
 
 # 💫 About Me:
 🎮 I am currently working on creating a 3D game in unity.  <br>🤝 I am looking to collaborate on Unity game development projects, especially in 3D game mechanics.  <br>🛠️ I am looking for help with advanced multiplayer mechanics and shader creation in Unity.  <br>📚 I am currently learning Unity 3D, multiplayer systems, and shader effects.  <br>💡 You should ask me about game design, C# scripting, and UI/UX in games.  <br>🐾 Fun fact: My cat loves walking on my laptop while I’m coding!  
