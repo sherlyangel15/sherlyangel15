@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sherly Angel, a AI and Game Developer
+## Hi there 👋 I am Sherly Angel, An AI and Game Developer
 
 # 💫 About Me:
 🧠 Aspiring AI Developer with a strong foundation in Unity, C#, and game development.  <br>🎮 Background in 2D/3D Unity games with experience in player mechanics, UI/UX, and game logic.  <br>🤝 Open to collaborating on beginner-friendly AI/ML projects and intelligent systems.  <br>💡 Ask me about C# scripting, Unity development, and how I'm applying programming logic to AI learning. <br>🐾 Fun fact: My cat loves walking on my laptop while I’m coding!  
